@@ -1,0 +1,10 @@
+# @package _global_
+
+defaults:
+  - _self_
+  - dataset: pure.yaml
+  - model: svdpp.yaml
+
+# train
+verbose: 2
+metrics: ['rmse', 'mae', 'r2']

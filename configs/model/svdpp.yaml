@@ -1,0 +1,9 @@
+_target_: libreco.algorithms.svdpp.SVDpp
+
+task: 'rating'
+embed_size: 16
+data_info: None
+n_epochs: 10
+lr: 0.001
+reg: None
+batch_size: 256

@@ -1,0 +1,2 @@
+data_path: 'data/data_for_pure.csv'
+split_ratio: [0.6, 0.2, 0.2]
